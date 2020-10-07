@@ -1,4 +1,4 @@
-(1) Download or clone the project
+(1) Download the zip file, un-zip the folder
 (2)Open project in Vscode or any prefered IDE
 (3)RUN “npm install” – This would take a while
 (4)Open terminal form IDE
